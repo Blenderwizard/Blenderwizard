@@ -4,7 +4,7 @@
 - 🌱 Enrolled at 42nice: [Intra](https://profile.intra.42.fr/users/jrathelo)
 - 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=[GitHub])
 
-![jrathelo's 42 stats](https://badge42.vercel.app/api/v2/cl82qmt8s00210gldjg31puxn/stats?cursusId=21&coalitionId=116)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl82qmt8s00210gldjg31puxn/stats?cursusId=21&coalitionId=116" alt="jrathelo's 42 stats" /></a>
 
 <!--
 **Blenderwizard/Blenderwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
