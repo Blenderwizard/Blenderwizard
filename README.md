@@ -1,4 +1,4 @@
-### Well met traveler 👋
+<h1 align="center">Well met traveler 👋, I'm Jolan "Blenderwizard" Rathelot</h1>
 
 - 😄 Pronouns: He/Him
 - 🌱 Enrolled at 42nice: [Intra](https://profile.intra.42.fr/users/jrathelo)
