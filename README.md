@@ -4,6 +4,8 @@
 - 🌱 Enrolled at 42nice: [Intra](https://profile.intra.42.fr/users/jrathelo)
 - 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=[GitHub])
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blenderwizard&show_icons=true&locale=en&layout=compact" alt="Blenderwizard" /></p>
+
 <!--
 **Blenderwizard/Blenderwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
