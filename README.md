@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🖥️ Enrolled at 42nice: [Intra](https://profile.intra.42.fr/users/jrathelo)
-- 🌱 I’m currently learning **Rust, Typescript and C++**
+- 🌱 I’m currently learning **Go, Rust, Typescript and C++**
 - 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=[GitHub])
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blenderwizard&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Blenderwizard" /></p>
