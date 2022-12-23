@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🖥️ Enrolled at 42nice: [Intra](https://profile.intra.42.fr/users/jrathelo)
+- 🔭 I’m Interested in Offensive CyberSecurity
 - 🌱 I’m currently learning **Go, Rust, Typescript and C++**
 - 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=[GitHub])
 
