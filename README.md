@@ -5,7 +5,7 @@
 - 🔭 I’m Interested in CyberSecurity, Computer Virology, Low Level Kernel Programing, and Embedded Programing
 - 💼 Doing an Internship at My3d on the Somanity Team: [Site](https://www.somanity.com/)
 - 🌱 I’m currently learning **Rust, Go, Python, C and Assembly for ARM/Intel Platforms**
-- 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=["GitHub Profile Contact"])
+- 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=[Github_Contact])
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blenderwizard&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Blenderwizard" /></p>
 
