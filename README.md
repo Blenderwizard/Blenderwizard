@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🖥️ Enrolled at 42nice: [Intra](https://profile.intra.42.fr/users/jrathelo)
-- 🔭 I’m Interested in CyberSecurity, Computer Virology, Low Level Kernel Programing, and Embedded Programing
+- 🔭 I’m Interested in CyberSecurity, Computer Virology, Kernel Programming, and Embedded Programming
 - 💼 Doing an Internship at My3d on the Somanity Team: [Site](https://www.somanity.com/)
 - 🌱 I’m currently learning **Rust, Go, Python, C and Assembly for ARM/Intel Platforms**
 - 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=[Github_Contact])
