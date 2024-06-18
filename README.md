@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning **Rust, Python, C and Assembly for ARM/Intel Platforms**
 - 📫 How to reach me: [rathelotj@gmail.com](mailto:rathelotj@gmail.com?subject=[Github_Contact])
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blenderwizard&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Blenderwizard" /></p>
-
 <!--
 **Blenderwizard/Blenderwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
